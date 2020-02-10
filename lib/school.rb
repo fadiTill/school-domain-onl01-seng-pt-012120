@@ -14,6 +14,6 @@ def add_student (name,grade)
 # if @roster[grade.two_sym]
 end
 def grade (grade)
-  @roster[add_student][grade].include?    @roster[add_student][grade]<< @roster[new.add_student][grade]
+  @roster[grade]   @roster[add_student][gr
 end
 end
